@@ -223,11 +223,11 @@ Through this task, the following skills were practiced:
 
 ## 👩‍💻 Author
 
-**Radhika Guntupalli**
+**Basam Venkatadhri**
 
 Data Science Student | Aspiring Data Analyst
 
-GitHub: `guntupalliradhika204-droid`
+GitHub: `venkatadhribasam201-hue`
 
 ---
 
